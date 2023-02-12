@@ -32,5 +32,10 @@ Object Detection and Recognition Screen
 
 ![image](https://user-images.githubusercontent.com/40520844/218315424-901e34e2-f473-40ec-b51f-fd14e1f11edf.png)
 
+## 🎮 How to run it?
+- Firstly, open the <Smart Video Monitoring.py> in <Frontend> directory
+- Change the directories of resources to match your path (path changes needed on: <iconbitmap>, <path> variable on <predictObject> function, <open_file_photo> variable, and <show_file_photo> variable)
+- The default camera that will be running is an external camera, if you wish to use your camera, change the <out> variable on <liveOrLocalTrigger> function to <0> instead of <1>
+
 ## 🤔 Hava a question?
 Let's chat on [inkedin](https://www.linkedin.com/in/motwkel-idris-1b73b3159/)
