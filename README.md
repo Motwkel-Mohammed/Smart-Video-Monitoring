@@ -21,13 +21,16 @@ The reason that specific classes are used is because most of the motion captured
 
 ## 🐱‍💻 The desktop application
 Main screen (dashboard)
+
 ![image](https://user-images.githubusercontent.com/40520844/218315396-75a3b006-0d37-4278-9f54-514e7eacc5a0.png)
 
 Motion Detection Process Screen
+
 ![image](https://user-images.githubusercontent.com/40520844/218315413-dc4ace3b-9010-4158-bf16-4ad5d7a6380a.png)
 
 Object Detection and Recognition Screen
+
 ![image](https://user-images.githubusercontent.com/40520844/218315424-901e34e2-f473-40ec-b51f-fd14e1f11edf.png)
 
 ## 🤔 Hava a question?
-Let's chat on ![inkedin](https://www.linkedin.com/in/motwkel-idris-1b73b3159/)
+Let's chat on [inkedin](https://www.linkedin.com/in/motwkel-idris-1b73b3159/)
