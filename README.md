@@ -38,4 +38,4 @@ Object Detection and Recognition Screen
 - The default camera that will be running is an external camera, if you wish to use your camera, change the <out> variable on <liveOrLocalTrigger> function to <0> instead of <1>
 
 ## 🤔 Hava a question?
-Let's chat on [inkedin](https://www.linkedin.com/in/motwkel-idris-1b73b3159/)
+Let's chat on [linkedin](https://www.linkedin.com/in/motwkel-idris-1b73b3159/)
